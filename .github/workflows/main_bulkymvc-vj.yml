@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'bulkymvc-vj'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA774A9D85EA4C46BA524882333120BB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF2C89DEE8154EA2B526D382DAFEA28D }}
           package: .
